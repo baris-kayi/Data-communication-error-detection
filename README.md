@@ -63,5 +63,8 @@ Status               : DATA CORRUPTED
 Client2 kapatiliyor...
 ```
 
-
+## Hazırlayanlar
+- **Barış Kayı** - 2410205528
+- **Utku Kaya** - 2410205526
+- **Emir İbrahim Polat** - 2410205525
 
